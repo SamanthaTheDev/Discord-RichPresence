@@ -1,0 +1,20 @@
+{
+
+    "app_id": "YOUR APP ID",
+
+    "line1" : "1ST LINE OF THE PRESENCE",
+    "line2" : "2ST LINE OF THE PRESENCE",
+
+    "txt_si" : "YOUR TEXT ON THE SMALL IMAGE",
+    "txt_li" : "YOUR TEXT ON THE LARGE IMAGE",
+
+    "l_img" : "LARGE IMAGE NAME",
+    "s_img" : "SMALL IMAGE NAME",
+
+    "button_name1" : "FIRST BUTTON NAME",
+    "button_name2" : "SECOND BUTTON NAME",
+
+    "button_url1" : "YOUR BUTTON_1 URL",
+    "button_url2" : "YOUR BUTTON_2 URL"
+
+}
